@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.wrapper {
+    padding: 100px;
+}
+
+#result {
+    color: red;
+    font-size: large;
+}
